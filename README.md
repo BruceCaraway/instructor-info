@@ -1,2 +1,2 @@
 # instructor-info
-General instructor info content that I share across courses
+General instructor info content that I share across courses.
